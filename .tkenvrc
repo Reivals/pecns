@@ -1,0 +1,5 @@
+# Partial Tkenv config file -- see $HOME/.tkenvrc as well
+inspector "router_scenario" "router_scenario" "2" "565x342+225+225:normal"
+inspector "scenario.client.tcpApp[0]" "TCPCustomClientApp" "1" "480x423+257+485:normal"
+inspector "scenario" "scenario" "2" "565x342+175+175:normal"
+

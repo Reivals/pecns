@@ -1,0 +1,5 @@
+.computed/
+out/
+simulations/results/
+*.exe
+netanim-trace.txt
